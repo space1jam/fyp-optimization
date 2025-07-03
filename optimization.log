@@ -1,0 +1,111 @@
+INFO - 
+==================================================
+Processing: c101C5.txt
+==================================================
+INFO - Starting processing for file: C:\Users\User\Documents\1 - APU FILE\SEM 5\FYP\GA x SA Optimization\docs\all_instance\c101C5.txt
+DEBUG - Reading data file with pandas
+DEBUG - Loaded 9 rows of data
+DEBUG - Scanning file for parameters
+DEBUG - Found Q = 77.75
+DEBUG - Found C = 200.0
+DEBUG - Found r = 1.0
+DEBUG - Found g = 3.47
+DEBUG - Found v = 1.0
+DEBUG - Processing nodes and creating depot copy
+INFO - Found 3 original stations
+DEBUG - Categorizing nodes
+INFO - Identified: 5 clients, 3 stations, 10 total nodes
+DEBUG - Calculating distance and time matrices
+DEBUG - Computing 100 node pairs
+DEBUG - Calculating time statistics
+INFO - Time statistics - Mean: 58.40, Std: 8.65
+INFO - Successfully processed all parameters
+INFO - Restricted license - for non-production use only - expires 2026-11-23
+INFO - 
+==================================================
+INFO - FULL ROUTE DETAILS
+INFO - ==================================================
+INFO - 
+Route 1 (7 nodes):
+INFO - D0 -> S15 -> C64 -> C30 -> S0 -> C85 -> D0_end
+INFO - 
+Route 2 (5 nodes):
+INFO - D0 -> C12 -> S5 -> C100 -> D0_end
+INFO - 
+==================================================
+INFO - SOLUTION SUMMARY
+INFO - ==================================================
+INFO - Total Routes: 2
+INFO - Served Clients: 5/5
+INFO - Total Distance: 257.75
+INFO - Used Stations: 3
+INFO - 
+==================================================
+Processing: rc206_21.txt
+==================================================
+INFO - Starting processing for file: C:\Users\User\Documents\1 - APU FILE\SEM 5\FYP\GA x SA Optimization\docs\all_instance\rc206_21.txt
+DEBUG - Reading data file with pandas
+DEBUG - Loaded 122 rows of data
+DEBUG - Scanning file for parameters
+DEBUG - Found Q = 229.26
+DEBUG - Found C = 1000.0
+DEBUG - Found r = 1.0
+DEBUG - Found g = 0.13
+DEBUG - Found v = 1.0
+DEBUG - Processing nodes and creating depot copy
+INFO - Found 21 original stations
+DEBUG - Categorizing nodes
+INFO - Identified: 100 clients, 21 stations, 123 total nodes
+DEBUG - Calculating distance and time matrices
+DEBUG - Computing 15129 node pairs
+DEBUG - Calculating time statistics
+INFO - Time statistics - Mean: 240.00, Std: 0.00
+INFO - Successfully processed all parameters
+INFO - Restricted license - for non-production use only - expires 2026-11-23
+INFO - 
+==================================================
+Processing: c101C10.txt
+==================================================
+INFO - Starting processing for file: C:\Users\User\Documents\1 - APU FILE\SEM 5\FYP\GA x SA Optimization\docs\all_instance\c101C10.txt
+DEBUG - Reading data file with pandas
+DEBUG - Loaded 16 rows of data
+DEBUG - Scanning file for parameters
+DEBUG - Found Q = 77.75
+DEBUG - Found C = 200.0
+DEBUG - Found r = 1.0
+DEBUG - Found g = 3.47
+DEBUG - Found v = 1.0
+DEBUG - Processing nodes and creating depot copy
+INFO - Found 5 original stations
+DEBUG - Categorizing nodes
+INFO - Identified: 10 clients, 5 stations, 17 total nodes
+DEBUG - Calculating distance and time matrices
+DEBUG - Computing 289 node pairs
+DEBUG - Calculating time statistics
+INFO - Time statistics - Mean: 60.80, Std: 7.00
+INFO - Successfully processed all parameters
+INFO - Restricted license - for non-production use only - expires 2026-11-23
+INFO - 
+==================================================
+INFO - FULL ROUTE DETAILS
+INFO - ==================================================
+INFO - 
+Route 1 (7 nodes):
+INFO - D0 -> C27 -> C4 -> C100 -> S3 -> C13 -> D0_end
+INFO - 
+Route 2 (8 nodes):
+INFO - D0 -> C98 -> C95 -> S1 -> C78 -> C89 -> S1 -> D0_end
+INFO - 
+Route 3 (3 nodes):
+INFO - D0 -> C96 -> D0_end
+INFO - 
+Route 4 (4 nodes):
+INFO - D0 -> C54 -> S16 -> D0_end
+INFO - 
+==================================================
+INFO - SOLUTION SUMMARY
+INFO - ==================================================
+INFO - Total Routes: 4
+INFO - Served Clients: 10/10
+INFO - Total Distance: 470.18
+INFO - Used Stations: 4
